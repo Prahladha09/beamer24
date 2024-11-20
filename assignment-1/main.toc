@@ -1,0 +1,9 @@
+\beamer@sectionintoc {2}{Problem}{3}{0}{1}
+\beamer@sectionintoc {3}{Solution}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Terms}{4}{0}{2}
+\beamer@subsectionintoc {3}{2}{Velocity Vectors}{5}{0}{2}
+\beamer@subsectionintoc {3}{3}{Resultant Velocity Vector}{6}{0}{2}
+\beamer@subsectionintoc {3}{4}{Direction vector and Slope}{7}{0}{2}
+\beamer@subsectionintoc {3}{5}{Required Angle}{7}{0}{2}
+\beamer@subsectionintoc {3}{6}{Plot of Velocity Vectors}{9}{0}{2}
+\beamer@subsectionintoc {3}{7}{Codes}{10}{0}{2}
